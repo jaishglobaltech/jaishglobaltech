@@ -106,12 +106,12 @@ function Contact() {
           <h2>Take the first step to success with Jaish Global Pvt. Ltd.</h2>
           <p>Have any question?</p>
           <div className="contact-details">
-            <p><Phone size={18} /> +91-9205760111, +91-9205760444, +91-124-4461181</p>
+            <p><Phone size={18} />+91-9205760444, +91-124-4461181</p>
             <p><Mail size={18} /> info@jaishglobal.in</p>
           </div>
           <h3>Addresses</h3>
           <h4>India</h4>
-          <p>449, JMD Megapolis IT Park, Sohna Rd, Sector 48, Gurugram, Haryana, 122001</p>
+          <p>Unit No-822, 8th Floor, Eros Corporate Park, Sector-02, IMT Manesar, Haryana - 122052</p>
           <p>C-117, Sector 3, Tirkha Colony, Ballabgarh Faridabad, Haryana – 121004</p>
           <p>Plot No. 4/1, Survey No. 64, Huda Techno Enclave, Madhapur, HITEC City, Hyderabad, Telangana 500082</p>
           <h4>UK</h4>
